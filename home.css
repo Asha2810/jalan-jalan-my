@@ -1,0 +1,21 @@
+body {
+    background-color: gold;
+    color: purple;
+    text-align: center;
+}
+
+.container img {
+    width: 500px; /* Increased size */
+    height: auto;
+}
+
+nav a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    background-color: #800080;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
